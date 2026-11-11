@@ -93,6 +93,10 @@ Plex uses a shared server-wide preroll setting; playback-triggered changes are b
 
 Open the WebUI on port **9393** and follow the setup wizard. The [getting started guide](docs/wiki/Getting-Started.md) covers your first connection and preroll.
 
+## One-click deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/NeXroll/)
+
 ## Learn more & get involved
 
 [Documentation](docs/wiki/Home.md) · [What's new](NeXroll/CHANGELOG.md) · [Sequences](docs/wiki/Sequences.md) · [NeX-Up](docs/wiki/NeX-Up.md) · [External API](docs/wiki/API.md) · [Troubleshooting](docs/wiki/Troubleshooting.md)
